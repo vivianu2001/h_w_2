@@ -13,5 +13,5 @@ connections: libmatrix.a main.o
 
 
 clean :
-	rm -f *.o
+	rm -f *.o connections libmatrix.a 
 all: connections
