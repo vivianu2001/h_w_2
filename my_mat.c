@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "my_mat.h"
 #define n 10
-#define INF -1;
+#define INF -1
 
 int arr[n][n];
 int floyd[n][n];
