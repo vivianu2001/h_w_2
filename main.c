@@ -20,12 +20,19 @@
 
 		case 'B':
 			scanf("%d %d", &i,&j);
-			is_Exist(i,j);
+				if(is_Exist(i,j)
+				   {
+					   printf("True\n");
+				   }
+			else
+				   {
+					   printf("False\n");
+				   }
 			break;
 
 		case 'C':
 			scanf("%d %d", &i,&j);
-			shortest_Path(i,j);
+			printf("%d\n",shortest_Path(i,j);
 			break;
 
 		case 'D':
