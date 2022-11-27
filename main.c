@@ -20,7 +20,7 @@
 
 		case 'B':
 			scanf("%d %d", &i,&j);
-				if(is_Exist(i,j)
+				if(is_Exist(i,j))
 				   {
 					   printf("True\n");
 				   }
