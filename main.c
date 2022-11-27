@@ -4,7 +4,7 @@
  int main()
 {	
 	int i,j; 
-	int arr [10][10];
+	
     char c;
     int boolean=true;
   	while(boolean)
@@ -14,7 +14,7 @@
 		switch (c)
 		{
 		case 'A': 
-			arr=build_Matrix();
+			build_Matrix();
 
 			break;
 
