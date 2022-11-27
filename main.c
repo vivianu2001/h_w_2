@@ -32,7 +32,7 @@
 
 		case 'C':
 			scanf("%d %d", &i,&j);
-			printf("%d\n",shortest_Path(i,j);
+			printf("%d\n",shortest_Path(i,j));
 			break;
 
 		case 'D':
