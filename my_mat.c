@@ -32,6 +32,7 @@ void build_Matrix()
 	
 }
 
+void floyd_Warshall();
 
 int is_Exist(int i,int j)
 {
