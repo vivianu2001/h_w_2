@@ -3,9 +3,9 @@
 
  int main()
 {	
-	int i,j; 
+    int i=0,j=0; 
 	
-    char c;
+    char c='D';
     int boolean=true;
   	while(boolean)
   {
